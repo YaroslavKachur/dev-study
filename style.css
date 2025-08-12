@@ -1,0 +1,8 @@
+.nestor-text {
+  display: flex;
+  justify-content: space-around;
+}
+.nestor-photos {
+  display: flex;
+  justify-content: space-around;
+}
