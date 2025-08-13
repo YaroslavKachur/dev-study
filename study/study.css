@@ -1,0 +1,9 @@
+.note-title { font-size: 30px;
+    font-weight: bold;
+display: flex;
+ }
+a {text-decoration: none;
+color: black;}
+.study-nav { display: flex;
+justify-content: flex-end;
+gap: 50px;}

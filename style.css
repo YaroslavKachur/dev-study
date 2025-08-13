@@ -6,3 +6,22 @@
   display: flex;
   justify-content: space-around;
 }
+.nestor-item {
+  list-style-type: none;
+  padding-left: 3;
+  align-self: flex-end;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.yaroslav-nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.header-nav {
+  display: flex;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
